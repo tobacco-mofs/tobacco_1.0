@@ -1,0 +1,107 @@
+data_sym_3_mc_0
+_audit_creation_date              2014-09-12
+_audit_creation_method            'Materials Studio'
+_symmetry_space_group_name_H-M    'P1'
+_symmetry_Int_Tables_number       1
+_symmetry_cell_setting            triclinic
+loop_
+_symmetry_equiv_pos_as_xyz
+  x,y,z
+_cell_length_a                    20.0000
+_cell_length_b                    20.0000
+_cell_length_c                    20.0000
+_cell_angle_alpha                 90.0000
+_cell_angle_beta                  90.0000
+_cell_angle_gamma                 90.0000
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_adp_type
+_atom_site_occupancy
+N1     N    -0.13159   0.04029  -0.00144   0.00000  Uiso   1.00
+N2     N    -0.09814   0.09664  -0.00196   0.00000  Uiso   1.00
+C3     C    -0.14204   0.14762  -0.00272   0.00000  Uiso   1.00
+X4     C    -0.20671   0.12282  -0.00269   0.00000  Uiso   1.00
+C5     C    -0.19734   0.05421  -0.00185   0.00000  Uiso   1.00
+H6     H    -0.12852   0.19994  -0.00328   0.00000  Uiso   1.00
+H7     H    -0.23657   0.01702  -0.00157   0.00000  Uiso   1.00
+Cu8    Cu   -0.00089   0.09751  -0.00160   0.00000  Uiso   1.00
+Cu9    Cu   -0.08752  -0.04653  -0.00026   0.00000  Uiso   1.00
+Cu10   Cu    0.08594  -0.04640   0.00040   0.00000  Uiso   1.00
+N11    N     0.09636   0.09679  -0.00122   0.00000  Uiso   1.00
+N12    N     0.12988   0.04049  -0.00044   0.00000  Uiso   1.00
+C13    C     0.19562   0.05451  -0.00035   0.00000  Uiso   1.00
+X14    C     0.20489   0.12313  -0.00111   0.00000  Uiso   1.00
+C15    C     0.14018   0.14783  -0.00164   0.00000  Uiso   1.00
+H16    H     0.23490   0.01738   0.00023   0.00000  Uiso   1.00
+H17    H     0.12659   0.20014  -0.00230   0.00000  Uiso   1.00
+N18    N     0.03218  -0.12896   0.00116   0.00000  Uiso   1.00
+N19    N    -0.03363  -0.12901   0.00090   0.00000  Uiso   1.00
+C20    C    -0.05493  -0.19282   0.00156   0.00000  Uiso   1.00
+X21    C    -0.00065  -0.23575   0.00227   0.00000  Uiso   1.00
+C22    C     0.05356  -0.19274   0.00198   0.00000  Uiso   1.00
+H23    H    -0.10680  -0.20797   0.00154   0.00000  Uiso   1.00
+H24    H     0.10545  -0.20781   0.00235   0.00000  Uiso   1.00
+Li25   O    -0.00082   0.00028  -0.00047   0.00000  Uiso   1.00
+Li26   O    -0.00096   0.19142  -0.00269   0.00000  Uiso   1.00
+Li27   O    -0.00126   0.10315   0.09213   0.00000  Uiso   1.00
+Li28   O    -0.00054   0.10098  -0.09544   0.00000  Uiso   1.00
+Li29   O    -0.10143  -0.05186  -0.09342   0.00000  Uiso   1.00
+Li30   O    -0.16751  -0.09569   0.00000   0.00000  Uiso   1.00
+Li31   O    -0.10215  -0.04969   0.09289   0.00000  Uiso   1.00
+Li32   O     0.09986  -0.04954   0.09366   0.00000  Uiso   1.00
+Li33   O     0.16600  -0.09544   0.00128   0.00000  Uiso   1.00
+Li34   O     0.10058  -0.05170  -0.09265   0.00000  Uiso   1.00
+H35    H    -0.00099  -0.01453   0.04639   0.00000  Uiso   1.00
+H36    H    -0.00063  -0.01562  -0.04698   0.00000  Uiso   1.00
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+_ccdc_geom_bond_type
+N1     N2      1.311   .     A
+N1     C5      1.344   .     A
+N1     Cu9     1.947   .     S
+N2     C3      1.346   .     A
+N2     Cu8     1.945   .     S
+C3     X4      1.385   .     A
+C3     H6      1.081   .     S
+X4     C5      1.385   .     A
+C5     H7      1.081   .     S
+Cu8    N11     1.945   .     S
+Cu8    Li25    1.945   .     S
+Cu8    Li26    1.878   .     S
+Cu8    Li27    1.878   .     S
+Cu8    Li28    1.878   .     S
+Cu9    N19     1.971   .     S
+Cu9    Li25    1.971   .     S
+Cu9    Li29    1.887   .     S
+Cu9    Li30    1.878   .     S
+Cu9    Li31    1.887   .     S
+Cu10   N12     1.947   .     S
+Cu10   N18     1.970   .     S
+Cu10   Li25    1.970   .     S
+Cu10   Li32    1.887   .     S
+Cu10   Li33    1.878   .     S
+Cu10   Li34    1.887   .     S
+N11    N12     1.311   .     A
+N11    C15     1.345   .     A
+N12    C13     1.344   .     A
+C13    X14     1.385   .     A
+C13    H16     1.081   .     S
+X14    C15     1.385   .     A
+C15    H17     1.081   .     S
+N18    N19     1.316   .     A
+N18    C22     1.345   .     A
+N19    C20     1.345   .     A
+C20    X21     1.384   .     A
+C20    H23     1.081   .     S
+X21    C22     1.384   .     A
+C22    H24     1.081   .     S
+Li25   H35     0.983   .     S
+Li25   H36     0.983   .     S

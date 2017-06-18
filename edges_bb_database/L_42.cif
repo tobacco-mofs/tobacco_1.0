@@ -1,0 +1,59 @@
+data_L_42
+_audit_creation_date              2014-09-12
+_audit_creation_method            'Materials Studio'
+_symmetry_space_group_name_H-M    'P1'
+_symmetry_Int_Tables_number       1
+_symmetry_cell_setting            triclinic
+loop_
+_symmetry_equiv_pos_as_xyz
+  x,y,z
+_cell_length_a                    20.0000
+_cell_length_b                    20.0000
+_cell_length_c                    20.0000
+_cell_angle_alpha                 90.0000
+_cell_angle_beta                  90.0000
+_cell_angle_gamma                 90.0000
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_adp_type
+_atom_site_occupancy
+N1     N    -0.97293  -0.83438  -0.00003   0.00000  Uiso   1.00
+C2     C    -0.93761  -0.90280   0.00009   0.00000  Uiso   1.00
+N3     N    -0.86070  -0.90642   0.00020   0.00000  Uiso   1.00
+N4     N    -0.81910  -0.84162   0.00021   0.00000  Uiso   1.00
+X5     C    -0.85442  -0.77321   0.00008   0.00000  Uiso   1.00
+N6     N    -0.93133  -0.76958  -0.00005   0.00000  Uiso   1.00
+C7     C    -0.97920  -0.96760   0.00010   0.00000  Uiso   1.00
+C8     C    -1.02079  -1.03240   0.00014   0.00000  Uiso   1.00
+C9     C    -1.06239  -1.09719   0.00009   0.00000  Uiso   1.00
+N10    N    -1.02707  -1.16562   0.00032   0.00000  Uiso   1.00
+N11    N    -1.06867  -1.23041   0.00020   0.00000  Uiso   1.00
+X12    C    -1.14558  -1.22679  -0.00008   0.00000  Uiso   1.00
+N13    N    -1.18090  -1.15836  -0.00026   0.00000  Uiso   1.00
+N14    N    -1.13930  -1.09357  -0.00020   0.00000  Uiso   1.00
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+_ccdc_geom_bond_type
+N1     C2      1.540   .     A
+N1     N6      1.540   .     A
+C2     N3      1.540   .     A
+C2     C7      1.540   .     S
+N3     N4      1.540   .     A
+N4     X5      1.540   .     A
+X5     N6      1.540   .     A
+C7     C8      1.540   .     T
+C8     C9      1.540   .     S
+C9     N10     1.540   .     A
+C9     N14     1.540   .     A
+N10    N11     1.540   .     A
+N11    X12     1.540   .     A
+X12    N13     1.540   .     A
+N13    N14     1.540   .     A

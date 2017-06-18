@@ -1,0 +1,72 @@
+data_sym_13_mc_12
+_audit_creation_date              2014-08-22
+_audit_creation_method            'Materials Studio'
+_symmetry_space_group_name_H-M    'P1'
+_symmetry_Int_Tables_number       1
+_symmetry_cell_setting            triclinic
+loop_
+_symmetry_equiv_pos_as_xyz
+  x,y,z
+_cell_length_a                    20.0000
+_cell_length_b                    20.0000
+_cell_length_c                    20.0000
+_cell_angle_alpha                 90.0000
+_cell_angle_beta                  90.0000
+_cell_angle_gamma                 90.0000
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_adp_type
+_atom_site_occupancy
+X1     B    -0.01285  -0.04021  -0.06585   0.01702  Uani   1.00
+X2     B    -0.07599   0.00973  -0.03556   0.01979  Uani   1.00
+X3     B    -0.05295  -0.06500   0.00617   0.01943  Uani   1.00
+X4     B     0.03475  -0.07672  -0.00414   0.02015  Uani   1.00
+X5     B     0.06566  -0.00859  -0.05194   0.01907  Uani   1.00
+X6     B    -0.00259   0.04470  -0.07098   0.01897  Uani   1.00
+X7     B     0.01285   0.04021   0.06585   0.01702  Uani   1.00
+X8     B     0.07599  -0.00973   0.03556   0.01979  Uani   1.00
+X9     B     0.05295   0.06500  -0.00617   0.01943  Uani   1.00
+X10    B    -0.03475   0.07672   0.00414   0.02015  Uani   1.00
+X11    B    -0.06566   0.00859   0.05194   0.01907  Uani   1.00
+X12    B     0.00259  -0.04470   0.07098   0.01897  Uani   1.00
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+_ccdc_geom_bond_type
+X1     X2      1.720   .     S
+X1     X3      1.722   .     S
+X1     X4      1.721   .     S
+X1     X5      1.715   .     S
+X1     X6      1.713   .     S
+X2     X3      1.773   .     S
+X2     X6      1.774   .     S
+X2     X10     1.762   .     S
+X2     X11     1.762   .     S
+X3     X4      1.782   .     S
+X3     X11     1.752   .     S
+X3     X12     1.755   .     S
+X4     X5      1.776   .     S
+X4     X8      1.762   .     S
+X4     X12     1.755   .     S
+X5     X6      1.773   .     S
+X5     X8      1.762   .     S
+X5     X9      1.752   .     S
+X6     X9      1.755   .     S
+X6     X10     1.755   .     S
+X7     X8      1.720   .     S
+X7     X9      1.722   .     S
+X7     X10     1.721   .     S
+X7     X11     1.715   .     S
+X7     X12     1.713   .     S
+X8     X9      1.773   .     S
+X8     X12     1.774   .     S
+X9     X10     1.782   .     S
+X10    X11     1.776   .     S
+X11    X12     1.773   .     S

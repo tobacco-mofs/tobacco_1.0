@@ -1,0 +1,68 @@
+data_L_29
+_audit_creation_date              2014-10-08
+_audit_creation_method            'Materials Studio'
+_symmetry_space_group_name_H-M    'P1'
+_symmetry_Int_Tables_number       1
+_symmetry_cell_setting            triclinic
+loop_
+_symmetry_equiv_pos_as_xyz
+  x,y,z
+_cell_length_a                    20.0000
+_cell_length_b                    20.0000
+_cell_length_c                    20.0000
+_cell_angle_alpha                 90.0000
+_cell_angle_beta                  90.0000
+_cell_angle_gamma                 90.0000
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_adp_type
+_atom_site_occupancy
+X1     C    -0.05091   0.19601  -0.02212   0.00000  Uiso   1.00
+C2     C     0.01060   0.15356  -0.00358   0.00000  Uiso   1.00
+C3     C     0.00534   0.07676  -0.00203   0.00000  Uiso   1.00
+C4     C     0.06683   0.03435   0.01664   0.00000  Uiso   1.00
+C5     C     0.06155  -0.04245   0.01837   0.00000  Uiso   1.00
+C6     C    -0.00522  -0.07683   0.00139   0.00000  Uiso   1.00
+C7     C    -0.06668  -0.03442  -0.01741   0.00000  Uiso   1.00
+C8     C    -0.06141   0.04238  -0.01911   0.00000  Uiso   1.00
+C9     C    -0.01053  -0.15362   0.00323   0.00000  Uiso   1.00
+X10    C     0.05091  -0.19601   0.02212   0.00000  Uiso   1.00
+H11    H     0.06004   0.17899   0.00900   0.00000  Uiso   1.00
+H12    H     0.11626   0.05980   0.02919   0.00000  Uiso   1.00
+H13    H     0.10707  -0.07384   0.03221   0.00000  Uiso   1.00
+H14    H    -0.11608  -0.05988  -0.03007   0.00000  Uiso   1.00
+H15    H    -0.10691   0.07377  -0.03302   0.00000  Uiso   1.00
+H16    H    -0.05994  -0.17908  -0.00940   0.00000  Uiso   1.00
+H17    H    -0.10441   1.17634   0.97788   0.00000  Uiso   1.00
+H18    H     0.10043   0.83222   1.02212   0.00000  Uiso   1.00
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+_ccdc_geom_bond_type
+X1     C2      1.540   .     A
+X1     H17     1.140   1_544 S
+C2     C3      1.540   .     S
+C2     H11     1.140   .     S
+C3     C4      1.540   .     A
+C3     C8      1.540   .     A
+C4     C5      1.540   .     A
+C4     H12     1.140   .     S
+C5     C6      1.540   .     A
+C5     H13     1.140   .     S
+C6     C7      1.540   .     A
+C6     C9      1.540   .     S
+C7     C8      1.540   .     A
+C7     H14     1.140   .     S
+C8     H15     1.140   .     S
+C9     X10     1.540   .     A
+C9     H16     1.140   .     S
+X10    H18     1.140   1_544 S
+H17    X1      1.140   1_566 S
+H18    X10     1.140   1_566 S
