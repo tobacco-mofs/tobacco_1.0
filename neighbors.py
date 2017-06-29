@@ -1,3 +1,23 @@
+#################
+ #
+ # This file is part of
+ # ToBaCCo - Topologically-Based Crystal Constructor
+ #
+ # Copyright 2017 Yamil J. Colon <yamilcolon2015@u.northwestern.edu>
+ #                Diego Gomez-Gualdron <dgomezgualdron@mines.edu>
+ #                Ben Bucior <ben.bucior@gmail.com>
+ #
+ # ToBaCCo is free software: you can redistribute it and/or modify
+ # it under the terms of the GNU Lesser General Public License as published by
+ # the Free Software Foundation, either version 3 of the License, or
+ # (at your option) any later version.
+ #
+ # ToBaCCo is distributed in the hope that it will be useful,
+ # but WITHOUT ANY WARRANTY; without even the implied warranty of
+ # MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ # GNU Lesser General Public License for more details.
+ #
+ #################
 import numpy as np
 def neighbor_edges(uc, v1, nv1, e1, ne1, cn, hl):
     tolerance = 0.1

@@ -1,7 +1,7 @@
-Manual for ToBACCo
+Manual for ToBaCCo
 ==================
 
-ToBACCo (**To**pological **B**ased **A**lgorithm for **C**rystal **Co**nstruction) is a code to make crystalline structures based on a given topology, nodes, and edges.  This current version of the code only deals with edge-transitive nets, which were obtained from RCSR.  Briefly, the code reads a net, chooses appropriate nodes and edges, scales the unit cell to fit the building blocks and subsequently, places and connects them, generating a crystal in .cif format.
+ToBaCCo (**To**pologically-**Ba**sed **C**rystal **Co**nstructor) is a code to make crystalline structures based on a given topology, nodes, and edges.  This current version of the code only deals with edge-transitive nets, which were obtained from RCSR.  Briefly, the code reads a net, chooses appropriate nodes and edges, scales the unit cell to fit the building blocks and subsequently, places and connects them, generating a crystal in .cif format. It uses python 2.7. .
 
 
 Topology
